@@ -1,0 +1,11 @@
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\distanceBetween2Cities\bin\Debug\netcoreapp2.1\distanceBetween2Cities.deps.json
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\distanceBetween2Cities\bin\Debug\netcoreapp2.1\distanceBetween2Cities.runtimeconfig.json
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\distanceBetween2Cities\bin\Debug\netcoreapp2.1\distanceBetween2Cities.runtimeconfig.dev.json
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\distanceBetween2Cities\bin\Debug\netcoreapp2.1\distanceBetween2Cities.dll
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\distanceBetween2Cities\bin\Debug\netcoreapp2.1\distanceBetween2Cities.pdb
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\distanceBetween2Cities\obj\Debug\netcoreapp2.1\distanceBetween2Cities.csprojAssemblyReference.cache
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\distanceBetween2Cities\obj\Debug\netcoreapp2.1\distanceBetween2Cities.csproj.CoreCompileInputs.cache
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\distanceBetween2Cities\obj\Debug\netcoreapp2.1\distanceBetween2Cities.AssemblyInfoInputs.cache
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\distanceBetween2Cities\obj\Debug\netcoreapp2.1\distanceBetween2Cities.AssemblyInfo.cs
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\distanceBetween2Cities\obj\Debug\netcoreapp2.1\distanceBetween2Cities.dll
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\distanceBetween2Cities\obj\Debug\netcoreapp2.1\distanceBetween2Cities.pdb

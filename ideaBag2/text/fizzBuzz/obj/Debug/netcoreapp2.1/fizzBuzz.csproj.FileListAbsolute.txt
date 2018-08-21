@@ -1,0 +1,11 @@
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\text\fizzBuzz\obj\Debug\netcoreapp2.1\fizzBuzz.csprojAssemblyReference.cache
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\text\fizzBuzz\obj\Debug\netcoreapp2.1\fizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\text\fizzBuzz\obj\Debug\netcoreapp2.1\fizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\text\fizzBuzz\obj\Debug\netcoreapp2.1\fizzBuzz.AssemblyInfo.cs
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\text\fizzBuzz\bin\Debug\netcoreapp2.1\fizzBuzz.deps.json
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\text\fizzBuzz\bin\Debug\netcoreapp2.1\fizzBuzz.runtimeconfig.json
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\text\fizzBuzz\bin\Debug\netcoreapp2.1\fizzBuzz.runtimeconfig.dev.json
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\text\fizzBuzz\bin\Debug\netcoreapp2.1\fizzBuzz.dll
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\text\fizzBuzz\bin\Debug\netcoreapp2.1\fizzBuzz.pdb
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\text\fizzBuzz\obj\Debug\netcoreapp2.1\fizzBuzz.dll
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\text\fizzBuzz\obj\Debug\netcoreapp2.1\fizzBuzz.pdb

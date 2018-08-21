@@ -1,0 +1,11 @@
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\taxCalculator\obj\Debug\netcoreapp2.1\taxCalculator.csprojAssemblyReference.cache
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\taxCalculator\obj\Debug\netcoreapp2.1\taxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\taxCalculator\obj\Debug\netcoreapp2.1\taxCalculator.AssemblyInfoInputs.cache
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\taxCalculator\obj\Debug\netcoreapp2.1\taxCalculator.AssemblyInfo.cs
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\taxCalculator\bin\Debug\netcoreapp2.1\taxCalculator.deps.json
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\taxCalculator\bin\Debug\netcoreapp2.1\taxCalculator.runtimeconfig.json
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\taxCalculator\bin\Debug\netcoreapp2.1\taxCalculator.runtimeconfig.dev.json
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\taxCalculator\bin\Debug\netcoreapp2.1\taxCalculator.dll
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\taxCalculator\bin\Debug\netcoreapp2.1\taxCalculator.pdb
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\taxCalculator\obj\Debug\netcoreapp2.1\taxCalculator.dll
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\taxCalculator\obj\Debug\netcoreapp2.1\taxCalculator.pdb

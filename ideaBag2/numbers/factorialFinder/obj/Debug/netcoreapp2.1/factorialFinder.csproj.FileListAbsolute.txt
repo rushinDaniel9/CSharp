@@ -1,0 +1,11 @@
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\factorialFinder\obj\Debug\netcoreapp2.1\factorialFinder.csprojAssemblyReference.cache
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\factorialFinder\obj\Debug\netcoreapp2.1\factorialFinder.csproj.CoreCompileInputs.cache
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\factorialFinder\obj\Debug\netcoreapp2.1\factorialFinder.AssemblyInfoInputs.cache
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\factorialFinder\obj\Debug\netcoreapp2.1\factorialFinder.AssemblyInfo.cs
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\factorialFinder\bin\Debug\netcoreapp2.1\factorialFinder.deps.json
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\factorialFinder\bin\Debug\netcoreapp2.1\factorialFinder.runtimeconfig.json
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\factorialFinder\bin\Debug\netcoreapp2.1\factorialFinder.runtimeconfig.dev.json
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\factorialFinder\bin\Debug\netcoreapp2.1\factorialFinder.dll
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\factorialFinder\bin\Debug\netcoreapp2.1\factorialFinder.pdb
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\factorialFinder\obj\Debug\netcoreapp2.1\factorialFinder.dll
+C:\Users\Rushin\Desktop\programming\codeFun\c#\ideaBag2\numbers\factorialFinder\obj\Debug\netcoreapp2.1\factorialFinder.pdb
